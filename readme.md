@@ -18,4 +18,9 @@ The application allows us to create, update, delete and view music tracks as wel
 
 5. Now run the project server using  `Python manage.py runserver`
 
-6. To access admin run `http://127.0.0.1:8000/admin/` and for GraphQl server run `http://127.0.0.1:8000/graphql/`
+6. To access admin run `http://127.0.0.1:8000/admin/`
+    ```
+    username = sudip
+    password = sudip@123
+    ```
+7. To access GraphQl server run `http://127.0.0.1:8000/graphql/`
