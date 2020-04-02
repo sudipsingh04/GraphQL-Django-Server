@@ -3,7 +3,8 @@
 This is a python application built with the [Django](https://www.djangoproject.com/) and [Graphene](https://docs.graphene-python.org/projects/django/en/latest/).
 
 ```bash 
-The application allows us to create, update, delete and view music tracks as well as add likes to the tracks using GraphQL. It is also equipped with JWT authentication with Graphql Error handling. 
+The application allows us to create, update, delete and view music tracks as well as add likes to the tracks using GraphQL. 
+It is also equipped with JWT authentication with Graphql Error handling. 
 ```
 ## Usage
 
